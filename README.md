@@ -22,6 +22,9 @@ Bhai, ye aapka poora Kubernetes ka syllabus hai. Maine isse do bhaagon me divide
 | **12** | **Taints & Tolerations** (Lock & Key Placement) | [Hindi Link](./Hindi_Notes/12_Kubernetes_Taints_and_Tolerations.md) | [English Link](./English_Notes/12_Kubernetes_Taints_and_Tolerations.md) |
 | **13** | **Node Affinity** (Attracting Pods to Nodes) | [Hindi Link](./Hindi_Notes/13_Kubernetes_NodeAffinity_Deep_Dive.md) | [English Link](./English_Notes/13_Kubernetes_NodeAffinity_Deep_Dive.md) |
 | **14** | **Jobs & CronJobs** (Batch Processing & Scheduling) | [Hindi Link](./Hindi_Notes/14_Kubernetes_Jobs_and_CronJobs.md) | [English Link](./English_Notes/14_Kubernetes_Jobs_and_CronJobs.md) |
+| **15** | **StatefulSets** (Stable IDs, Persistent Storage) | [Hindi Link](./Hindi_Notes/15_Kubernetes_StatefulSet_Deep_Dive.md) | [English Link](./English_Notes/15_Kubernetes_StatefulSet_Deep_Dive.md) |
+| **16** | **Health Probes** (Liveness, Readiness, Startup) | [Hindi Link](./Hindi_Notes/16_Kubernetes_Health_Probes.md) | [English Link](./English_Notes/16_Kubernetes_Health_Probes.md) |
+| **17** | **Pod Disruption Budget** (Planned Maintenance Safety) | [Hindi Link](./Hindi_Notes/17_Kubernetes_Pod_Disruption_Budget.md) | [English Link](./English_Notes/17_Kubernetes_Pod_Disruption_Budget.md) |
 
 ---
 

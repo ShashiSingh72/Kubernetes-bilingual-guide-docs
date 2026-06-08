@@ -133,4 +133,4 @@ Nodes are the machines (VMs or physical servers) where your applications (Pods) 
 *   **Ans:** It means we don't make changes to a running server. If something needs to change, we create a new Pod or Node and replace the old one.
 
 **10. Q: What is the "Container Runtime Interface (CRI)" in K8s?**
-*   **Ans:** It is a plugin interface that allows Kubelet to communicate with different container runtimes (like containerd, CRI-O, Docker) without changing Kubelet's code.
+*   **Ans:** It is a plugin interface that allows Kubel et to communicate with different container runtimes (like containerd, CRI-O, Docker) without changing Kubelet's code.
